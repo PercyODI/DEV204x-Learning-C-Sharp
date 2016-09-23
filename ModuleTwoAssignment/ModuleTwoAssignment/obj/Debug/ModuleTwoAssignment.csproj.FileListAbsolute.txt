@@ -1,1 +1,5 @@
 C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleTwoAssignment\ModuleTwoAssignment\bin\Debug\ModuleTwoAssignment.exe.config
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleTwoAssignment\ModuleTwoAssignment\bin\Debug\ModuleTwoAssignment.exe
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleTwoAssignment\ModuleTwoAssignment\bin\Debug\ModuleTwoAssignment.pdb
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleTwoAssignment\ModuleTwoAssignment\obj\Debug\ModuleTwoAssignment.exe
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleTwoAssignment\ModuleTwoAssignment\obj\Debug\ModuleTwoAssignment.pdb
