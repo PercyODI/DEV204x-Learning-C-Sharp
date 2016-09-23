@@ -1,0 +1,9 @@
+c:\users\pah9qd\documents\visual studio 2015\Projects\ModuleOne\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\pah9qd\documents\visual studio 2015\Projects\ModuleOne\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\pah9qd\documents\visual studio 2015\Projects\ModuleOne\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\pah9qd\documents\visual studio 2015\Projects\ModuleOne\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\pah9qd\documents\visual studio 2015\Projects\ModuleOne\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\pah9qd\documents\visual studio 2015\Projects\ModuleOne\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleOne\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleOne\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleOne\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
