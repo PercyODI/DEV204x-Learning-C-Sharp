@@ -1,0 +1,6 @@
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleOneAssignment\ModuleOneAssignment\bin\Debug\ModuleOneAssignment.exe.config
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.csprojResolveAssemblyReference.cache
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleOneAssignment\ModuleOneAssignment\bin\Debug\ModuleOneAssignment.exe
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleOneAssignment\ModuleOneAssignment\bin\Debug\ModuleOneAssignment.pdb
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.exe
+C:\Users\pah9qd\Desktop\DEV402x Learning C#\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.pdb
